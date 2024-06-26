@@ -64,5 +64,5 @@ Programming language: <TODO>
 
 ## Statement of individual contributions
 
-<Write what each group member did>
+<Write what each group member did-
 
