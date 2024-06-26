@@ -15,11 +15,11 @@ Programming language: Python
 ### Existing tool
 
 <Inform the name of the existing tool that was executed and how it was executed>
-The tool used to measure the coverage was Coverage.py.
-
 
 <Show the coverage results provided by the existing tool with a screenshot>
 <img width="546" alt="Screenshot 2024-06-26 at 5 40 58 PM" src="https://github.com/OrestisKal/Jarvis-SEP86/assets/78654750/a1a7a052-fe78-4112-bf65-dd4919eeb102">
+
+The tool used to measure the coverage was Coverage.py.
 
 ### Your own coverage tool
 
