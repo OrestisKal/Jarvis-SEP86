@@ -14,21 +14,21 @@ Programming language: <TODO>
 
 ### Existing tool
 
-<Inform the name of the existing tool that was executed and how it was executed>
+-Inform the name of the existing tool that was executed and how it was executed-
 
-<Show the coverage results provided by the existing tool with a screenshot>
+-Show the coverage results provided by the existing tool with a screenshot-
 
 ### Your own coverage tool
 
-<The following is supposed to be repeated for each group member>
+-The following is supposed to be repeated for each group member-
 
-<Group member name>
+-Group member name-
 
 <Function 1 name>
 
-<Show a patch (diff) or a link to a commit made in your forked repository that shows the instrumented code to gather coverage measurements>
+-Show a patch (diff) or a link to a commit made in your forked repository that shows the instrumented code to gather coverage measurements-
 
-<Provide a screenshot of the coverage results output by the instrumentation>
+-Provide a screenshot of the coverage results output by the instrumentation-
 
 <Function 2 name>
 
@@ -38,9 +38,9 @@ Programming language: <TODO>
 
 ### Individual tests
 
-<The following is supposed to be repeated for each group member>
+-The following is supposed to be repeated for each group member>
 
-<Group member name>
+<Group member name-
 
 <Test 1>
 
@@ -48,9 +48,9 @@ Programming language: <TODO>
 
 <Provide a screenshot of the old coverage results (the same as you already showed above)>
 
-<Provide a screenshot of the new coverage results>
+<Provide a screenshot of the new coverage results-
 
-<State the coverage improvement with a number and elaborate on why the coverage is improved>
+<State the coverage improvement with a number and elaborate on why the coverage is improved-
 
 <Test 2>
 
@@ -60,7 +60,7 @@ Programming language: <TODO>
 
 <Provide a screenshot of the old coverage results by running an existing tool (the same as you already showed above)>
 
-<Provide a screenshot of the new coverage results by running the existing tool using all test modifications made by the group>
+<Provide a screenshot of the new coverage results by running the existing tool using all test modifications made by the group-
 
 ## Statement of individual contributions
 
