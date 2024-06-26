@@ -2,21 +2,23 @@
 
 ## Project chosen
 
-Name: <TODO>
+Name: Jarvis
 
-URL: <TODO>
+URL: https://github.com/sukeesh/Jarvis.git
 
-Number of lines of code and the tool used to count it: <TODO>
+Number of lines of code and the tool used to count it: 19435 using Lizard
 
-Programming language: <TODO>
+Programming language: Python
 
 ## Coverage measurement
 
 ### Existing tool
 
--Inform the name of the existing tool that was executed and how it was executed-
+<Inform the name of the existing tool that was executed and how it was executed>
+The tool used to measure the coverage was Coverage.py.
 
--Show the coverage results provided by the existing tool with a screenshot-
+<Show the coverage results provided by the existing tool with a screenshot>
+<img width="546" alt="Screenshot 2024-06-26 at 5 40 58 PM" src="https://github.com/OrestisKal/Jarvis-SEP86/assets/78654750/a1a7a052-fe78-4112-bf65-dd4919eeb102">
 
 ### Your own coverage tool
 
